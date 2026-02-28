@@ -1,0 +1,43 @@
+/* Card common styles */
+.about-card,
+.founder-card {
+  border-radius: 16px;
+  border: 1px solid #e6e6e6;
+  background: #fafafa;
+}
+
+/* Titles */
+.section-title {
+  font-weight: 600;
+  color: #4b2e1e; /* tea brown */
+}
+
+/* About text */
+.about-text {
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* Founder image */
+.founder-img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Founder message */
+.founder-text {
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* Founder name */
+.founder-name {
+  font-weight: 600;
+  color: #4b2e1e;
+}
